@@ -64,7 +64,7 @@ header p {
 }
 
 /* Mobile */
-@media (max-width: 500px) {
+@media (max-width: 450px) {
     .gallery {
         grid-template-columns: 1fr;
     }
